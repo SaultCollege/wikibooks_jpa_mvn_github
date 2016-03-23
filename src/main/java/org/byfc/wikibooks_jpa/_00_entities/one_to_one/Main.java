@@ -5,9 +5,6 @@
  */
 package org.byfc.wikibooks_jpa._00_entities.one_to_one;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.Statement;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.persistence.EntityManager;
